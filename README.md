@@ -170,49 +170,49 @@ Users enter the number of the operation they want to perform. The program execut
 
 ---
 
-## 📸 Project Screenshots
+
+# 📸 NumPy Analyzer – Output Screenshots
 
 This section displays the outputs of the NumPy Analyzer project, demonstrating its main features and operations.
 
-### 1. Main Menu
+## 1. Main Menu
 Displays the six main options available in the application.
 
 ![Main Menu](screenshots/main_menu.png)
 
-### 2. Array Creation
+## 2. Array Creation
 Demonstrates creating one-dimensional, two-dimensional, and three-dimensional NumPy arrays.
 
 ![Array Creation](screenshots/array_creation.png)
 
-### 3. Array Indexing and Slicing
+## 3. Array Indexing and Slicing
 Shows how to access individual elements and extract selected portions of arrays.
 
-![Array Indexing and Slicing](screenshots/indexing_slicing.png)
+![Array Indexing and Slicing](indexing_slicing.png)
 
-### 4. Mathematical Operations
+## 4. Mathematical Operations
 Demonstrates addition, subtraction, multiplication, division, dot product, and matrix multiplication.
 
-![Mathematical Operations](screenshots/mathematical_operations.png)
+![Mathematical Operations](mathematical_operations.png)
 
-### 5. Combining and Splitting Arrays
+## 5. Combining and Splitting Arrays
 Shows how to combine multiple arrays and split an array into smaller parts.
 
-![Combining and Splitting Arrays](screenshots/combine_split.png)
+![Combining and Splitting Arrays](combine_split.png)
 
-### 6. Searching, Sorting, and Filtering
+## 6. Searching, Sorting, and Filtering
 Demonstrates searching for elements, sorting array values, and filtering data using conditions.
 
-![Searching, Sorting, and Filtering](screenshots/search_sort_filter.png)
+![Searching, Sorting, and Filtering](search_sort_filter.png)
 
-### 7. Aggregates and Statistics
+## 7. Aggregates and Statistics
 Displays statistical operations such as sum, mean, median, standard deviation, variance, minimum, maximum, and percentile.
 
-![Aggregates and Statistics](screenshots/aggregates_statistics.png)
+![Aggregates and Statistics](aggregates_statistics.png)
 
-### 8. Object-Oriented Programming (OOP)
-Shows the OOP concepts implemented in the project, including classes, objects, encapsulation, class methods, and static methods.
+## Conclusion
+NumPy Analyzer demonstrates practical use of Python, NumPy arrays, mathematical computations, statistical analysis, and Object-Oriented Programming concepts through a simple menu-driven application.
 
-![OOP Concepts](screenshots/oop_module_information.png)
 
 ## ⚙️ Installation and Setup
 
