@@ -178,12 +178,12 @@ This section displays the outputs of the NumPy Analyzer project, demonstrating i
 ## 1. Main Menu
 Displays the six main options available in the application.
 
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](main_menu.png)
 
 ## 2. Array Creation
 Demonstrates creating one-dimensional, two-dimensional, and three-dimensional NumPy arrays.
 
-![Array Creation](screenshots/array_creation.png)
+![Array Creation](array_creation.png)
 
 ## 3. Array Indexing and Slicing
 Shows how to access individual elements and extract selected portions of arrays.
